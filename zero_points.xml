@@ -1,0 +1,12 @@
+<ZeroPoints>
+    <ZeroPoint>
+        <Number>1</Number>
+        <Name>Default</Name>
+        <Offset>0.000</Offset>
+    </ZeroPoint>
+    <ZeroPoint>
+        <Number>2</Number>
+        <Name>New Point</Name>
+        <Offset>100.00</Offset>
+    </ZeroPoint>
+<ZeroPoint><Number>3</Number><Name>Default Name: </Name><Offset>0.0</Offset></ZeroPoint><ZeroPoint><Number>4</Number><Name>Default Name: </Name><Offset>0.0</Offset></ZeroPoint><ZeroPoint><Number>5</Number><Name>Default Name: </Name><Offset>0.0</Offset></ZeroPoint></ZeroPoints>
